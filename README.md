@@ -1,6 +1,6 @@
 # EX01 Developing a Simple Webserver
 
-# Date:
+# Date: 25-11-2024
 # AIM:
 To develop a simple webserver to serve html pages and display the configuration details of laptop.
 
@@ -94,6 +94,7 @@ httpd.serve_forever()
 ```
 
 # OUTPUT:
+![alt text](output.png)
 ![alt text](table.png)
 
 # RESULT:
