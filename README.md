@@ -94,7 +94,8 @@ httpd.serve_forever()
 ```
 
 # OUTPUT:
-![alt text](output.png)
+![397381534-7c0723dc-0e08-4d27-97d0-4bfc1247e5f3](https://github.com/user-attachments/assets/34a70798-de75-46f2-aec0-701d574053d1)
+
 ![alt text](table.png)
 
 # RESULT:
